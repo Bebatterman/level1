@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "386359",
+      "name": "会话",
+      "font_class": "huihua",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "579286",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "702681",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e8cf",
+      "unicode_decimal": 59599
+    },
+    {
+      "icon_id": "1381470",
+      "name": "solution",
+      "font_class": "solution",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1471616",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "2523702",
+      "name": "符号-国际化",
+      "font_class": "guojihua",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "5170238",
+      "name": "电脑",
+      "font_class": "computer",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7454290",
+      "name": "news",
+      "font_class": "news",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "7712631",
+      "name": "case",
+      "font_class": "case",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    }
+  ]
+}

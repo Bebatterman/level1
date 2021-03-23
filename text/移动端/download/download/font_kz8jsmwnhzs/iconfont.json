@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "637454",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "880306",
+      "name": "音乐",
+      "font_class": "yinlemusic214",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1800706",
+      "name": "放大镜",
+      "font_class": "magnifier",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "2401877",
+      "name": "排行",
+      "font_class": "paihang",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5162814",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5201582",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "6237080",
+      "name": "微博",
+      "font_class": "tubiaozhizuo-",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6665572",
+      "name": "易物通",
+      "font_class": "airudiantubiaohuizhi-zhuanqu_yiwutong",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "7629048",
+      "name": "话筒",
+      "font_class": "huatong",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "10622224",
+      "name": "朋友",
+      "font_class": "dilanxianxingiconyihuifu_huabanfuben",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11518443",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    }
+  ]
+}

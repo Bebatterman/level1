@@ -1,0 +1,76 @@
+.borderLine {
+  font-size: 12px;
+  color: #eee;
+  margin: 0 3px;
+}
+
+.top {
+  width: 100%;
+  height: 34px;
+  border-bottom: 1px solid #e6e6e6;
+}
+.top .topBox {
+  width: 1200px;
+  height: 34px;
+  margin: 0 auto;
+}
+.top .topBox .topText {
+  display: block;
+  width: 84px;
+  height: 34px;
+  font-size: 12px;
+  line-height: 30px;
+  float: left;
+}
+.top .topBox .loginBox {
+  width: 78px;
+  height: 34px;
+  float: left;
+  margin-left: 5px;
+  font-size: 0;
+  line-height: 30px;
+}
+.top .topBox .loginBox img {
+  position: relative;
+  display: inline-block;
+  margin-right: 5px;
+  height: 15px;
+  width: 15px;
+  top: 2px;
+}
+.top .topBox .loginBox .loginText {
+  width: 24px;
+  height: 34px;
+  position: relative;
+  display: inline-block;
+  font-size: 12px;
+  color: #FF9C52;
+  cursor: pointer;
+}
+.top .topBox .topNav {
+  width: 273px;
+  height: 34px;
+  float: right;
+}
+.top .topBox .topNav ul {
+  width: 273px;
+  height: 34px;
+  line-height: 30px;
+}
+.top .topBox .topNav ul li {
+  text-align: center;
+  width: 91px;
+  height: 15px;
+  border-right: 1px solid #eee;
+  line-height: 15px;
+  float: left;
+  color: #333;
+  font-size: 12px;
+}
+.top .topBox .topNav ul li span {
+  display: inline-block;
+}
+.top .topBox .topNav ul li img {
+  position: relative;
+  top: 2px;
+}

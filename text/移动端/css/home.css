@@ -1,0 +1,75 @@
+@charset "utf-8";
+html,body{
+    height: 100%;
+}
+nav{
+    width: 100%;height:.79rem;
+    margin-top: .88rem;
+    padding:0 .24rem 0 .24rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px gray solid;
+}
+nav li{
+    font-size: 28px;
+    line-height: .76rem;
+}
+nav li:active{
+    color: red;
+    border-bottom: 4px red solid;
+}
+main{
+    width:100%;
+    height:100%;
+    padding:0.88rem 0 0.95rem;
+}
+section{
+    width:100%;
+    height:100%;
+    overflow-y: auto;
+}
+main section .cont{
+    margin-top: .3rem;
+    /* padding: 0 .86rem; */
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px gray solid;
+}
+main section .itd{
+    width: 7.1rem;
+    margin: .4rem 0 0 .2rem;
+}
+main section .itd_top{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+main section .itd h3{
+    height: 31px;
+    line-height: 28px;
+    font-size: 31px;
+    padding-left: .48rem;
+    background: url(../image/gedanicon.png) no-repeat left;
+}
+main section .itd h4{
+    font-size: 21px;
+    color: gray;
+}
+main section .itd_con{
+    width:100%;
+    margin-top: .21rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+main section .itd_con dt{
+    width: .226rem;height:.226rem;
+}
+main section .itd_con p:nth-child(1){
+    margin-top: 2.4rem;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}

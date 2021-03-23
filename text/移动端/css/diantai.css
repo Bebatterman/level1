@@ -1,0 +1,113 @@
+@charset "utf-8";
+html,body{
+    height: 100%;
+}
+nav{
+    width: 100%;height:.79rem;
+    margin-top: .88rem;
+    padding:0 .24rem 0 .24rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px gray solid;
+}
+nav li{
+    font-size: 28px;
+    line-height: .76rem;
+}
+nav li:active{
+    color: red;
+    border-bottom: 4px red solid;
+}
+main{
+    width:100%;
+    height:100%;
+    /* padding:0.88rem 0 0.95rem; */
+}
+section{
+    width:100%;
+    height:100%;
+    overflow-y: auto;
+}
+section .con_btn{
+    width: 100%;height:2.9rem;
+    box-sizing: border-box;
+    padding: 0 .34rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: .36rem;
+}
+section .con_btn figure{
+    width: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    margin-bottom: .43rem;
+}
+section .con_btn figure span{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+section img{
+    width: .56rem;
+    margin: 0 auto;
+}
+section .vedio{
+    width: 7.24rem;height: 1.58rem;
+    border: 1px gray solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 .28rem;
+    margin: 0 auto;
+    margin-top: .20rem;
+}
+section span h3{
+    font-size: 32px;
+    line-height: .50rem;
+}
+section span h4{
+    color: red;
+    font-size: 24px;
+}
+section .vedio img{
+    width: 1.72rem;height: 1.12rem;
+    margin: 0;
+}
+section .itd{
+    width: 100%;height: 100%;
+    box-sizing: border-box;
+    padding: 0 .20rem;
+    margin-top: .60rem
+}
+section .itd h2{
+    font-size: 34px;
+}
+section .itd li{
+    width: 100%;height: 1.35rem;
+    border-top: 1px gray solid;
+    margin-top: .28rem;
+    display: flex;
+    align-items: center;
+}
+section .itd li img{
+    width: 1.12rem;height: 1.12rem;
+    margin: 0;
+}
+section .itd li span{
+    margin-left: .15rem;
+}
+section .itd li span p:nth-child(1){
+    font-size: 26px;
+}
+section .itd li span p:nth-child(2){
+    font-size: 22px;
+    color: #919294;
+}
